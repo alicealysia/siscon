@@ -1,0 +1,6 @@
+{
+    "name": "siscon",
+    "dependencies": {
+        "astal": "/usr/share/astal/gjs"
+    }
+}
